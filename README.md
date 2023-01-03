@@ -1,4 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/doankimdinh/ud_m-croservice_k8s/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/doankimdinh/ud_m-croservice_k8s/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/doankimdinh/microservicesatscale-project4/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/doankimdinh/microservicesatscale-project4/tree/main)
 
 ## Project Overview
 

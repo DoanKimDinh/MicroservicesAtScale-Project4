@@ -1,12 +1,11 @@
 #!/usr/bin/env bash
-
 # This tags and uploads an image to Docker Hub
 
 # Step 1:
 # This is your Docker ID/path
 dockerpath=doankimdinh/udacity_microservice:v1
 # Step 2
-# Run the Docker Hub container with kubernetes
+# Run the Docker Hub container
 kubectl run my-app --image=doankimdinh/udacity_microservice:v1 --port=80
 
 # Step 3:
